@@ -1,7 +1,11 @@
 .container {
 	font-size: 15px;
-	width: 50%;
+	width: 300px;
+	min-height: 300px;
 	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .btn {
 	min-width: 60px;
